@@ -12,4 +12,4 @@
 - 🧩 Frameworks/Libraries: Reactjs, Nextjs, Express, Flask, Django, Discord.py, rocket (rust)
 
 
-  I was the developer of [Pokemon](https://pokemonbot.com/) discord bot. It was my first project that blew 400k+ users.
+  I was the developer of [Pokemon](https://github.com/Pokemon-HQ) discord bot. It was my first project that blew 400k+ users. 
