@@ -10,4 +10,6 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🛠️ My Tools: Python, Javascript, Typescript, Rust, C#
 - 🧩 Frameworks/Libraries: Reactjs, Nextjs, Express, Flask, Django, Discord.py, rocket (rust)
-  
+
+
+  I was the developer of [Pokemon](https://pokemonbot.com/) discord bot. It was my first project that blew 400k+ users.
