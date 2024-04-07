@@ -20,7 +20,7 @@ I'm a passionate developer with expertise in various domains including web devel
 - Unity 🎮
 - Godot 🕹️
 - Discord.py 🤖
-- Rust 🚀
+
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/wiperr/)
