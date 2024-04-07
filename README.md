@@ -1,10 +1,32 @@
-### Hi there 👋
+# 👋 Hi there, I'm Shivang Rathore!
 
-- 🔭 I’m currently working on Web Application
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🛠️ My Tools: Python, Javascript, Typescript, Rust, C#, MongoDB, PostgreSQL
-- 🧩 Frameworks/Libraries: Reactjs, Nextjs, Express, Flask, Django, Discord.py, rocket (rust)
+I'm a passionate developer with expertise in various domains including web development, game development, and app development. With a keen interest in learning and exploring new technologies, I strive to create impactful solutions and contribute to the open-source community.
 
+## Achievements
+- Developed the popular [Pokemon Discord Bot](https://github.com/Pokemon-HQ), which garnered over 400k+ users, marking a significant milestone in my journey as a developer.
 
-  I was the developer of [Pokemon](https://github.com/Pokemon-HQ) discord bot. It was my first project that blew 400k+ users. 
+## Skills
+- Python 🐍
+- Javascript/Typescript 🌐
+- Rust 🦀
+- C# 🔷
+- MongoDB 🍃
+- PostgreSQL 🐘
+- Reactjs ⚛️
+- Nextjs 💻
+- Express 🚀
+- Flask 🌶️
+- Django 🎓
+- Unity 🎮
+- Godot 🕹️
+- Discord.py 🤖
+- Rust 🚀
+
+## Get in Touch
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/wiperr/)
+- Follow me on [Twitter](https://twitter.com/wiper_dev)
+- Check out my projects on [GitHub](https://github.com/Wiper-R)
+- Chat with me on Discord: @wiperr
+- Subscribe to my YouTube channel: [Seekh Code](https://www.youtube.com/@seekhcode)
+
+Feel free to reach out if you're interested in collaborating or have any questions about my work!
