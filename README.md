@@ -13,10 +13,12 @@ I'm a passionate developer with expertise in various domains including web devel
 - Javascript/Typescript
   - Reactjs ⚛️
   - Nextjs 💻
-- Rust
-- C#
+- Linux 🐧
+- Redis 📚
 - MongoDB 🍃
 - PostgreSQL 🐘
+- Rust
+- C#
 - Unity 🎮
 - Godot 🕹️
 
