@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Shivang Rathore!
 
 I'm a passionate developer with expertise in various domains including web development, game development, and app development. With a keen interest in learning and exploring new technologies, I strive to create impactful solutions and contribute to the open-source community.
-Checkout my gamedeve projects: [Wiper-Gamedev](https://github.com/Wiper-Gamedev)
+Checkout my gamedev projects: [Wiper-Gamedev](https://github.com/Wiper-Gamedev)
 
 ## Achievements
 - Developed the popular [Pokemon Discord Bot](https://github.com/Pokemon-HQ), which garnered over 400k+ users, marking a significant milestone in my journey as a developer.
