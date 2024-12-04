@@ -18,10 +18,6 @@ Checkout my gamedev projects: [Wiper-Gamedev](https://github.com/Wiper-Gamedev)
 - Redis 📚
 - MongoDB 🍃
 - PostgreSQL 🐘
-- Rust
-- C#
-- Unity 🎮
-- Godot 🕹️
 
 
 ## Get in Touch
