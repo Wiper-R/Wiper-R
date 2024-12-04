@@ -5,6 +5,7 @@ Checkout my gamedev projects: [Wiper-Gamedev](https://github.com/Wiper-Gamedev)
 
 ## Achievements
 - Developed the popular [Pokemon Discord Bot](https://github.com/Pokemon-HQ), which garnered over 400k+ users, marking a significant milestone in my journey as a developer.
+- Created my personal blog website with proper SEO [SeekhCode](https://seekhcode.me)
 
 ## Skills
 - Python
