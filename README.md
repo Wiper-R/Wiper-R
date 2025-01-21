@@ -1,7 +1,3 @@
-Based on the resume template you've shared, I'll craft a polished GitHub README that aligns with your profile. Here's the updated version:
-
----
-
 # Hi, I’m Shivang Rathore!  
 I’m a passionate full-stack developer with expertise in creating scalable and impactful web applications. With a strong focus on learning, open-source contributions, and innovative solutions, I’m dedicated to advancing the field of software development. I’m also a hobbyist game developer—check out my work at [Wiper-Gamedev](https://github.com/Wiper-Gamedev).
 
