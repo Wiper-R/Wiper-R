@@ -24,5 +24,3 @@ I’m a passionate full-stack developer with expertise in creating scalable and 
 ### Tools  
 - **Platforms:** Linux, Git, Docker, Turborepo  
 - **Integrations:** Cloudinary, Stripe, Resend, Google Analytics  
-
----
