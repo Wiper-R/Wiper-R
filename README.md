@@ -56,12 +56,3 @@ I’m a passionate full-stack developer with expertise in creating scalable and 
 ### [Shortcut](https://github.com/Wiper-R/shortcut)  
 **Tech Stack:** TypeScript, Next.js, MongoDB, Prisma, Tailwind  
 - Features custom JWT authentication and an intuitive UI for easy navigation.  
-
----
-
-## 📈 Contributions  
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Wiper-R/Wiper-R/output/github-contribution-grid-snake-dark.svg)
-
----
-
-Feel free to modify further or let me know if there are additional elements you'd like to include!
