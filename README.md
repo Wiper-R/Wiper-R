@@ -1,5 +1,5 @@
 # Hi, I’m Shivang Rathore!  
-I’m a passionate full-stack developer with expertise in creating scalable and impactful web applications. With a strong focus on learning, open-source contributions, and innovative solutions, I’m dedicated to advancing the field of software development. I’m also a hobbyist game developer—check out my work at [Wiper-Gamedev](https://github.com/Wiper-Gamedev).
+A passionate full-stack developer with expertise in creating scalable and impactful web applications. With a strong focus on learning, open-source contributions, and innovative solutions, I’m dedicated to advancing the field of software development. I’m also a hobbyist game developer—check out my work at [Wiper-Gamedev](https://github.com/Wiper-Gamedev).
 
 <a href="https://buymeacoffee.com/wiperr?new=1">
 <img src="https://gist.githubusercontent.com/juliomaqueda/1d4399f36b7350d6a73db6a470826076/raw/3c5d5e222f1805c2698227e4eb9c5458a8742b75/buy_me_a_coffee_badge.svg">
