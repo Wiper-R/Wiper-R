@@ -29,18 +29,6 @@ I have been coding for the past 4-5 years and have developed a strong interest i
 
 <a href="http://www.github.com/wiper-r"><img src="https://github-readme-stats.vercel.app/api?username=wiper-r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wiper-r's GitHub stats" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/wiper-r/code-compiler" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wiper-r&repo=code-compiler&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wiper-r/seekh-code-blog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wiper-r&repo=seekh-code-blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/wiper-r/rps-multiplayer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wiper-r&repo=rps-multiplayer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wiper-r/brun" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wiper-r&repo=brun&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/wiperr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<a href="https://www.buymeacoffee.com/wiperr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
